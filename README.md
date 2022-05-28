@@ -15,7 +15,7 @@ A Torrent, youtube-dl Leecher, and Uploader!
 Simply clone the repository and run the main file:
 
 ```sh
-git clone https://github.com/SpEcHiDe/PublicLeech.git
+git clone https://github.com/WellingtonMonteiro/PublicLeech-
 cd PublicLeech
 python3 -m venv venv
 . ./venv/bin/activate
